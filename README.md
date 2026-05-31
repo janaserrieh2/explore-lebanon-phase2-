@@ -79,4 +79,4 @@ http://localhost:5173
 
 ## Team Members
 - Jana Serrieh
-- - Rawan Abou Alloul
+- Rawan Abou Alloul
