@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import DarkMode from "./DarkMode";
 
 function Navbar() {
   return (
@@ -17,6 +18,8 @@ function Navbar() {
         <NavLink to="/blog">Blog</NavLink>
         <NavLink to="/contact">Contact</NavLink>
       </div>
+
+      <DarkMode />
     </nav>
   );
 }
