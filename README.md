@@ -38,6 +38,11 @@ npm run dev
 ```text
 http://localhost:5173
 ```
+GitHub Repository
+https://github.com/janaserrieh2/explore-lebanon-phase2-
+
+Live Demo
+https://explore-lebanon.netlify.app/
 
 ## Screenshots
 
